@@ -2,7 +2,7 @@
 
 namespace Craft;
 
-require 'vendor/autoload.php';
+require __DIR__.'/vendor/autoload.php';
 
 class InflectPlugin extends BasePlugin
 {
@@ -38,6 +38,3 @@ class InflectPlugin extends BasePlugin
         return new InflectTwigExtension();
     }
 }
-
-
-
