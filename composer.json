@@ -1,5 +1,5 @@
 {
-    "name": "nerds-and-company/craft-inflect",
+    "name": "nerds-and-company/inflect",
     "description": "Plugin for Craft CMS which adds an inflection twig extension.",
     "type": "craft-plugin",
     "require": {
