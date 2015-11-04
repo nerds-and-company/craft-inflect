@@ -4,9 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "9530cc50de3822b6ea9de15e0aa6266d",
-    "packages": [],
-    "packages-dev": [
+    "hash": "7722b0ce07c7a28dff774946dcf44327",
+    "packages": [
         {
             "name": "composer/installers",
             "version": "v1.0.22",
@@ -104,7 +103,9 @@
                 "zikula"
             ],
             "time": "2015-10-29 23:28:48"
-        },
+        }
+    ],
+    "packages-dev": [
         {
             "name": "icanboogie/inflector",
             "version": "v1.3.2",
