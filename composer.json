@@ -2,7 +2,7 @@
     "name": "nerds-and-company/craft-inflect",
     "description": "Plugin for Craft CMS which adds an inflection twig extension.",
     "type": "craft-plugin",
-    "require" : {
+    "require-dev" : {
         "composer/installers": "~1.0",
         "icanboogie/inflector": "1.3.2"
     }
